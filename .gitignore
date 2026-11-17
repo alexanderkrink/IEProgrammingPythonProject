@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDEs / OS
+.idea/
+.spyderproject
+.spyproject/
+.vscode/
+.DS_Store
